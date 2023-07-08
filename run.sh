@@ -1,0 +1,1 @@
+python './paralel_simulation.py'
